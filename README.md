@@ -31,6 +31,4 @@ Running the commnad flutter doctor wil show if any issues is found, and if you a
 ## Simple Calculator App - Reference and credits
 [Flutter Simple APP](https://medium.com/@harshil1712/lets-flutter-how-i-built-a-simple-calculator-with-flutter-41410b76a1aa)
 
-## Doubts? Contact Me.
-While installing / setting up the workspace for flutter, I faced a lot of issues. If you guys face issues, contact me @hemanthnov2001@gmail.com . Will surely respond, and try to rectify your errors or problems.
 
